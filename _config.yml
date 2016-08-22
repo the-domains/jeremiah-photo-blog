@@ -1,9 +1,6 @@
-name: JeremiahPhoto.com
+name: Jeremiah Photo Blog
 layout_spectrum: 0.22189741906271143
 typography_spectrum: 0.753280403280276
-opengraph:
-  type: ''
-  appId: ''
 color:
   brandColors:
     - '#468966'
@@ -15,10 +12,3 @@ color:
   lightness: 0.7401220446852285
   saturation: 0.40592610973815246
   rhythmicContrast: 0.7847111992303445
-title: ''
-author:
-  name: Jeremiah Toller
-  url: JeremiahPhoto.com
-  email: j@jeremiahphoto.com
-content_rating:
-  adult: false
