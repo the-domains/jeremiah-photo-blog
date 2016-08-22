@@ -1,4 +1,4 @@
-name: Jeremiah Photo Blog
+name: JeremiahPhoto.com
 layout_spectrum: 0.22189741906271143
 typography_spectrum: 0.753280403280276
 opengraph:
@@ -17,8 +17,8 @@ color:
   rhythmicContrast: 0.7847111992303445
 title: ''
 author:
-  name: ''
-  url: ''
-  email: ''
+  name: Jeremiah Toller
+  url: JeremiahPhoto.com
+  email: j@jeremiahphoto.com
 content_rating:
   adult: false
