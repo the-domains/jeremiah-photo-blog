@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jeremiah Photo Blog]]></title>
+        <description><![CDATA[Jeremiah Photo Blog]]></description>
+        <link>https://thegrid.ai/jeremiah-photo-blog/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Aug 2016 09:09:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeremiah-photo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Wheelhouse, Downtown Los Angeles]]></title>
+            <description><![CDATA[<article><h1>The Wheelhouse, Downtown Los Angeles</h1><p>Tami and Chase Spenst wanted to build a one-stop shop for the everyday bicycle rider. After finding a space in the heart of Los Angeles' creative community, they designed a warm and approachable indoor/outdoor space (with a service center and coffee bar) and filled it with vintage-inspired bicycles and accessories.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d451662de5f889e0d2ea7540f20fda26793ae992.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/culture/the-wheelhouse-bicycles-coffee-los-angeles</link>
+            <guid isPermaLink="false">864c6549-c145-4ad7-9791-4145c03952be</guid>
+            <pubDate>Mon, 22 Aug 2016 09:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Book Better Airbnbs for Less Money]]></title>
+            <description><![CDATA[<article><h1>How to Book Better Airbnbs for Less Money</h1><p>How to successfully book your first-choice listings and get them for cheaper.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43ad1631f9488b5c41ba63eb0d4ff8c377b6b850.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/tech/nation/airbnb-hacks-how-to-find-better-cheaper-listings/travel</link>
+            <guid isPermaLink="false">c9b85744-29ab-40e9-b39b-1b2478470add</guid>
+            <pubDate>Mon, 22 Aug 2016 09:09:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
