@@ -1,0 +1,14 @@
+name: Jeremiah Photo Blog
+layout_spectrum: 0.22189741906271143
+typography_spectrum: 0.753280403280276
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.0723411496260169
+  lightness: 0.7401220446852285
+  saturation: 0.40592610973815246
+  rhythmicContrast: 0.7847111992303445
